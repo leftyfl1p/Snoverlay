@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.snoverlay
+Name: Snoverlay
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Overlay snowflakes on top of home/lock screen wallpaper
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Section: Tweaks
